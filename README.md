@@ -4,12 +4,12 @@
 D3P provides the tools to conduct in silico phenotyping experiment over typical sensors, including RGB/Multispectral camera and LiDAR.
 
 ## Install
-1) Install OpenAlea environment
+**a. Install OpenAlea environment**
 
-Note that please ensure [Conda](https://conda.io) have been installed in your conmputer that is an open source package management system and environment management system. [Conda Download](https://conda.io/miniconda.html). Use the Python 2.7 based installation (Windows, Linux, Mac).
+[OpenAlea](http://openalea.gforge.inria.fr/dokuwiki/doku.php) is a 3D plant modeling platform that includes modules to analyse, visualize and model the functioning and growth of plant architecture. To install OpenAlea, please ensure [Conda](https://conda.io) have been installed in your conmputer. Conda is an open source package management system and environment management system that can run in Windows, Linux, Mac.  Please use the Python 2.7 based installation ([Conda Download](https://conda.io/miniconda.html).
 
 Create an environment named *openalea*:
-Launch a console (See Anaconda Prompt in Start menu on windows)
+Launch a console
     
     conda create -n openalea -c openalea openalea.plantgl openalea.lpy boost=1.66
 
@@ -26,7 +26,7 @@ Install the different packages
 
     conda install -c openalea -c conda-forge pvlib-python alinea.astk
 
-2) Install POV-Ray
+b. Install POV-Ray
 
 3) Install 
 
