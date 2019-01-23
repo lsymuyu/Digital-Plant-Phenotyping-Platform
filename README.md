@@ -1,5 +1,8 @@
 <p align="center"><img width=25% src="https://user-images.githubusercontent.com/6087486/51623212-7dc1e700-1f38-11e9-86ac-a4041dae99b3.png"></p>
 
+## Authors
+Shouyang Liu etc.
+
 ## Basic Overview
 D3P provides the tools to conduct in silico phenotyping experiment over typical sensors, including RGB/Multispectral camera and LiDAR.
 
@@ -32,11 +35,17 @@ b. Install POV-Ray
 
 3) Install Phenotyping package
 
-## Demoo
-**a. Manipulate view configuration**
+## Demo
+**a. Manipulate view configuration to mimic sensor movement**
+
 <p align="center"><img width=50% src="https://user-images.githubusercontent.com/6087486/51630522-a94dcd00-1f4a-11e9-82e4-1b18fad68ef0.gif"></p>
 
 **b. Change Light condition**
+
+<p align="center"><img width=50% src="https://user-images.githubusercontent.com/6087486/51639055-45360380-1f60-11e9-993b-242ee70c7ad9.gif"></p>
+
+## Citation
+
 
 
 
