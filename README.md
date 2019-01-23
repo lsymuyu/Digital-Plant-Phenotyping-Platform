@@ -31,3 +31,12 @@ b. Install POV-Ray
 3) Install 
 
 3) Install Phenotyping package
+
+## Demoo
+**a. Manipulate view configuration**
+<p align="center"><img width=60% src="https://user-images.githubusercontent.com/6087486/51630522-a94dcd00-1f4a-11e9-82e4-1b18fad68ef0.gif"></p>
+
+**b. Change Light condition**
+
+
+
