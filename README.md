@@ -6,7 +6,7 @@ D3P provides the tools to conduct in silico phenotyping experiment over typical 
 ## Install
 **a. Install OpenAlea environment**
 
-[OpenAlea](http://openalea.gforge.inria.fr/dokuwiki/doku.php) is a 3D plant modeling platform that includes modules to analyse, visualize and model the functioning and growth of plant architecture. To install OpenAlea, please ensure [Conda](https://conda.io) have been installed in your conmputer. Conda is an open source package management system and environment management system that can run in Windows, Linux, Mac.  Please use the Python 2.7 based installation ([Conda Download](https://conda.io/miniconda.html).
+[OpenAlea](http://openalea.gforge.inria.fr/dokuwiki/doku.php) is a 3D plant modeling platform that includes modules to analyse, visualize and model the functioning and growth of plant architecture. To install OpenAlea, please ensure [Conda](https://conda.io) have been installed in your conmputer. Conda is an open source package management system and environment management system that can run in Windows, Linux, Mac.  Please use the Python 2.7 based installation ([Conda Download](https://conda.io/miniconda.html)).
 
 Create an environment named *openalea*:
 Launch a console
