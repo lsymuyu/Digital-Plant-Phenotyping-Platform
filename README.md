@@ -9,7 +9,7 @@ D3P provides the tools to conduct in silico phenotyping experiment over typical 
 ## Install
 **a. Install OpenAlea environment**
 
-[OpenAlea](http://openalea.gforge.inria.fr/dokuwiki/doku.php) is a 3D plant modeling platform that includes modules to analyse, visualize and model the functioning and growth of plant architecture. To install OpenAlea, please ensure [Conda](https://conda.io) have been installed in your conmputer. Conda is an open source package management system and environment management system that can run in Windows, Linux, Mac.  Please use the Python 2.7 based installation ([Conda Download](https://conda.io/miniconda.html)).
+[OpenAlea](http://openalea.gforge.inria.fr/dokuwiki/doku.php) is a 3D plant modeling platform that includes modules to analyse, visualize and model the functioning and growth of plant architecture. To install OpenAlea, please ensure [Conda](https://conda.io) has been installed. Conda is an open source package management system and environment management system that can run in Windows, Linux, Mac.  Please use the Python 2.7 based installation ([Conda Download](https://conda.io/miniconda.html)).
 
 Create an environment named *openalea*:
 Launch a console
@@ -28,6 +28,8 @@ Install the different packages
     conda install -c openalea openalea.mtg alinea.caribu openalea.plantscan3d openalea.visualea 
 
     conda install -c openalea -c conda-forge pvlib-python alinea.astk
+    
+    conda install pyprosail
 
 b. Install POV-Ray
 POV-Ray is rendering software ([POV-Ray Download](http://www.povray.org/download/))
