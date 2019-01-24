@@ -56,6 +56,6 @@ If you use material here, please consider to cite the following paper:
 
 ## Alknowledgement
 Thanks a lot for help from:
-Chistophe pardal   (christophe.pradal@inria.fr)
-Fredieric Boudon   (frederic.boudon@cirad.fr)
+Chistophe pardal   (christophe.pradal@inria.fr),
+Fredieric Boudon   (frederic.boudon@cirad.fr),
 Chrsitine Fournier (christian.fournier@supagro.inra.fr)
