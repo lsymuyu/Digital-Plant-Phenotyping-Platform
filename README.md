@@ -35,7 +35,8 @@ Install the different packages
     conda install pyprosail
 
 b. Install POV-Ray
-POV-Ray is rendering software ([POV-Ray Download](http://www.povray.org/download/))
+
+POV-Ray is a free and open-source ray tracing program which generates images from a text-based scene description ([POV-Ray Download](http://www.povray.org/download/)). For 3D model meshes in other formats (*.obj, *DXF etc.), PoseRay can convert to POV-Ray scenes ([PoseRAY download] (https://sites.google.com/site/poseray/)).
 
 3) Install 
 
