@@ -30,6 +30,7 @@ Install the different packages
     conda install -c openalea -c conda-forge pvlib-python alinea.astk
 
 b. Install POV-Ray
+POV-Ray is rendering software ([POV-Ray Download](http://www.povray.org/download/))
 
 3) Install 
 
