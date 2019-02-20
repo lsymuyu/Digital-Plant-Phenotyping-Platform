@@ -53,8 +53,10 @@ POV-Ray is a free and open-source ray tracing program which generates images fro
 ## Citation
 If you use material here, please consider to cite the following paper:
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Alknowledgement
+## Acknowledgement
 Thanks a lot for help from:
 Chistophe pardal   (christophe.pradal@inria.fr),
 Fredieric Boudon   (frederic.boudon@cirad.fr),
