@@ -2,7 +2,7 @@
 
 ## Contributors
 Shouyang Liu (刘守阳)  (shouyang.liu@inra.fr),
-Bruno Andrieu (bruno.andrieu@grignon.inra.fr),
+Bruno Andrieu (bruno.andrieu@inra.fr),
 Pierre Martre (pierre.martre@inra.fr),
 Fred Baret    (frederic.baret@inra.fr)
 
@@ -58,4 +58,4 @@ If you use material here, please consider to cite the following paper:
 Thanks a lot for help from:
 Chistophe pardal   (christophe.pradal@inria.fr),
 Fredieric Boudon   (frederic.boudon@cirad.fr),
-Chrsitine Fournier (christian.fournier@supagro.inra.fr)
+Christian Fournier (christian.fournier@supagro.inra.fr)
